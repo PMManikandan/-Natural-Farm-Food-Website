@@ -11,7 +11,7 @@ Welcome to the Natural Farm Food Website repository! This project is dedicated t
 - Contact page for inquiries and orders.
 - User-friendly design for an optimal browsing experience.
 
-  ##output screenshots
+## Output Screenshots
 ## Index Page : 
 ![index](https://github.com/PMManikandan/-Natural-Farm-Food-Website/assets/101463689/b811c262-cf74-4144-bc77-1534df0c91a1)
 
