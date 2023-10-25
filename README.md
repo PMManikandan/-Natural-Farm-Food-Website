@@ -15,10 +15,10 @@ Welcome to the Natural Farm Food Website repository! This project is dedicated t
 ## Index Page : 
 ![index](https://github.com/PMManikandan/-Natural-Farm-Food-Website/assets/101463689/b811c262-cf74-4144-bc77-1534df0c91a1)
 
-## About Us page :
+## About Us Page :
 ![about](https://github.com/PMManikandan/-Natural-Farm-Food-Website/assets/101463689/243cbcd7-0472-4723-a54e-891fb1c5be48)
 
-## Product page :
+## Product Page :
 ![product](https://github.com/PMManikandan/-Natural-Farm-Food-Website/assets/101463689/250b110a-d92a-4fd1-9fde-3149ad2ecc78)
 
 ## Gallery Page:
